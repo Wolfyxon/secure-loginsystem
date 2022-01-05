@@ -6,13 +6,11 @@ __It's example code of my idea, I don't recommend using it as website, better co
 Make sure you have NodeJS installed.
 First install required modules:
 ```
-npm i express
-npm i dotenv
-npm i body-parser
+npm i
 ```
 Then just run
 ```
-node index.js
+node run start
 ```
 
 ## How does it work?
